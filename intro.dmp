@@ -1,0 +1,61 @@
+
+******* 37 Label(s) *******
+clear = $0825 
+colourrtn = $099A 
+colourtable = $0A90 
+copytrs = $0922 
+drawlines = $087D 
+drawlogo = $0846 
+exitintro = $08E8 
+exitscroll = $0999 
+fadedelay = $0A8D 
+fademain = $09A5 
+fadepointer = $0A8E 
+fadestore = $0A8F 
+flashtext = $09E9 
+introloop = $08D5 
+irq1 = $09F5 
+irq2 = $0A18 
+irq3 = $0A37 
+irq4 = $0A56 
+irq5 = $0A71 
+line1 = $0AB8 
+line2 = $0AE0 
+looptable = $09BE 
+messread = $0977 
+reloc1 = $0939 
+reloc2 = $093B 
+relocator = $0934 
+rt = $0A8C 
+scroller = $095D 
+scrolltext = $3800 
+shift = $096C 
+shiftback = $09CB 
+shiftfwd = $09DE 
+silence = $0916 
+store = $098B 
+storecols = $09C3 
+synctimer = $0952 
+xpos = $0A8B 
+
+******* 0 Unused label(s) *******
+
+******* 12 Variable(s) *******
+colour  = $D800
+matrix  = $2800
+musicinit  = $1000
+musicplay  = $1003
+screen  = $0400
+split1  = $0042
+split2  = $0082
+split3  = $00AA
+split4  = $00BA
+split5  = $00FA
+startaddress  = $FCE2
+tgt_c64  = $0001
+******* 4 Unused variables(s) *******
+colour
+matrix
+screen
+tgt_c64
+
