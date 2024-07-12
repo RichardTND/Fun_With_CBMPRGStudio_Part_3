@@ -1,3 +1,5 @@
+FUN WITH CBMPRGSTUDIO - PART 3
+
 This complete repository contains all the data and source based Part 3 of Scene World's Fun With CBMPRGStudio.
 The last part taught how to make a PETSCII intro. 
 This part shows how to display a charset logo, custom charset and scroll text.
